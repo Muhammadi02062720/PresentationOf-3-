@@ -87,3 +87,11 @@
  >For example:
 
  ![](/images/Screenshot_9.png)
+
+
+>#### indexOf();
+
+ >We use indexOf() method to know elements in which index lies:
+ >For example:
+
+ ![](/images/Screenshot_10.png)
