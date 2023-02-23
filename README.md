@@ -139,3 +139,9 @@
 >#### map();
 
 ![](/images/Screenshot_17.png)
+
+
+>#### forEach();
+
+ ![](/images/Screenshot_18.png)
+
