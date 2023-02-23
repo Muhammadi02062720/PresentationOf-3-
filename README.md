@@ -67,3 +67,15 @@
  >For example:
 
   ![](/images/Screenshot_7.png)
+
+
+>## JavaScript array methods:
+
+ >If you want to reverse an elements on array,you have to use the method reverse();
+
+  >How reverse() method does work ?
+
+   >Reverse() method, reverse an elements of array from the end into start:
+   >For instead:
+
+    ![](/images/Screenshot_8.png)
