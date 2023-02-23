@@ -25,3 +25,11 @@
 ># Array methods
  
 ![](/images/Screenshot_3.png)
+
+
+>### Add an Element to an Array
+
+ >If we want to add new elements in array, we have to use belows methods:
+
+  > + push();
+    + unfhift();
