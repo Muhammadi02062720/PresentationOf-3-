@@ -95,3 +95,11 @@
  >For example:
 
  ![](/images/Screenshot_10.png)
+
+
+>#### includes():
+
+ >we use the includes() method to find out if there is such an element in our array:
+ >For example:
+
+ ![](/images/Screenshot_11.png)
