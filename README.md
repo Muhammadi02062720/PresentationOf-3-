@@ -8,3 +8,14 @@
  * JavaScript array-copy operations create shallow copies. (All standard built-in copy operations  with    any JavaScript objects create shallow copies, rather than deep copies).
 
 ![](/images/865.jpg)
+
+>### CHANGE ELEMENTS IN ARRAY 
+
+ >You can also add elements or change the elements by accessing the index 
+ value. 
+ ![](/images/Screenshot_1.png)
+
+>Suppose, an array has two elements. If you try to add an element at index 3 
+(fourth element), the third element will be undefined. For example,
+ 
+ ![](/images/Screenshot_2.png)
