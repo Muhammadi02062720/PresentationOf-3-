@@ -149,4 +149,6 @@
  >The forEach() method executes a provided function once for each array element.
 
  ![](/images/Screenshot_18.png)
-
+ 
+ >The syntaxes of forEach()
+    > arr.forEach(callback(elements, index, arr) {code})
