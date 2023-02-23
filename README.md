@@ -160,3 +160,10 @@
  >The find() method returns the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is returned.
 
  ![](/images/Screenshot_20.png)
+
+
+>#### sort();
+
+ >The sort() method sorts the elements of an array in place and returns the reference to the same array, now sorted. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
+
+![](/images/Screenshot_21.png)
