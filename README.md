@@ -121,3 +121,7 @@
  >For example:  slice(start, end);
 
   ![](/images/Screenshot_12.png)
+
+>#### sort(); 
+
+![](/images/Screenshot_14.png)
