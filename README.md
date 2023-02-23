@@ -167,3 +167,12 @@
  >The sort() method sorts the elements of an array in place and returns the reference to the same array, now sorted. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
 
 ![](/images/Screenshot_21.png)
+
+
+>## filter();
+
+ >Returns the elements of an array that meet the condition specified in a callback function.
+
+ >Возвращает элементы массива, которые удовлетворяют условию, указанному в функции обратного вызова.
+
+ ![](/images/Screenshot_23.png)
