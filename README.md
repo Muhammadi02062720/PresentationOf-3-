@@ -60,3 +60,10 @@
  >For example:
 
   ![](/images/Screenshot_6.png)
+
+
+ >##### The method shift() delete an element from the start of the array:
+
+ >For example:
+
+  ![](/images/Screenshot_7.png)
