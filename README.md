@@ -137,11 +137,16 @@
 ![](/images/Screenshot_16.png)
 
 >#### map();
+ 
+ >The map() method creates a new array with the results of calling a provided function on every element in the calling array.
+
 
 ![](/images/Screenshot_17.png)
 
 
 >#### forEach();
+
+ >The forEach() method executes a provided function once for each array element.
 
  ![](/images/Screenshot_18.png)
 
