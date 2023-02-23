@@ -103,3 +103,12 @@
  >For example:
 
  ![](/images/Screenshot_11.png)
+
+
+>#### splice():
+
+ >The splice() method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place. To access part of an array without modifying it, see slice().
+ >slice() method takes three parametr:
+ >For example:    slice(start, delete, add);
+
+  ![](/images/Screenshot_13.png)
