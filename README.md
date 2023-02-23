@@ -136,7 +136,7 @@
 
 ![](/images/Screenshot_16.png)
 
->#### map();
+>## map();
  
  >The map() method creates a new array with the results of calling a provided function on every element in the calling array.
 
@@ -144,7 +144,7 @@
 ![](/images/Screenshot_17.png)
 
 
->#### forEach();
+>## forEach();
 
  >The forEach() method executes a provided function once for each array element.
 
@@ -155,14 +155,14 @@
  > arr.forEach(callback(elements, index, arr) {code})
 
 
->#### find();
+>## find();
 
  >The find() method returns the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is returned.
 
  ![](/images/Screenshot_20.png)
 
 
->#### sort();
+>## sort();
 
  >The sort() method sorts the elements of an array in place and returns the reference to the same array, now sorted. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
 
