@@ -151,4 +151,4 @@
  ![](/images/Screenshot_18.png)
  
  >The syntaxes of forEach()
-    > arr.forEach(callback(elements, index, arr) {code})
+> arr.forEach(callback(elements, index, arr) {code})
