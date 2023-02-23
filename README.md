@@ -79,3 +79,11 @@
    >For instead:
 
   ![](/images/Screenshot_8.png)
+
+
+>#### Concat();
+
+ >We use concat() method to join some arrays:
+ >For example:
+
+ ![](/images/Screenshot_9.png)
