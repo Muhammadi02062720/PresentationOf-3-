@@ -122,6 +122,16 @@
 
   ![](/images/Screenshot_12.png)
 
->#### sort(); 
 
-![](/images/Screenshot_14.png)
+>## JavaScript array methods callbacks
+ 
+>What is the callbacks in js ?
+   
+  >Callback is a function that is passed as an argument to another function and its execution is delayed until that function in which it is passed is executed.
+
+  >Обратный вызов - это функция, которая передается в качестве аргумента другой функции, и ее выполнение откладывается до тех пор, пока не будет выполнена та функция, в которую она передана.
+
+
+>## JavaScript array methods:
+
+![](/images/Screenshot_16.png)
