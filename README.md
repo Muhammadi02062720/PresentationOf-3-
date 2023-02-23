@@ -153,3 +153,8 @@
 >The syntaxes of forEach();
 
  > arr.forEach(callback(elements, index, arr) {code})
+
+
+>#### find();
+
+ ![](/images/Screenshot_20.png)
