@@ -32,4 +32,4 @@
  >If we want to add new elements in array, we have to use belows methods:
 
   > + push();
-    + unfhift();
+  > + unfhift();
