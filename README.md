@@ -135,3 +135,7 @@
 >## JavaScript array methods:
 
 ![](/images/Screenshot_16.png)
+
+>#### map();
+
+![](/images/Screenshot_17.png)
