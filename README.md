@@ -108,7 +108,16 @@
 >#### splice():
 
  >The splice() method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place. To access part of an array without modifying it, see slice().
- >slice() method takes three parametr:
+ >slice() method takes three parametrs:
  >For example:    slice(start, delete, add);
 
   ![](/images/Screenshot_13.png)
+
+
+>#### slice():
+
+ >The slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified:
+ >slice() mehtod takes two parametrs:
+ >For example:  slice(start, end);
+
+  ![](/images/Screenshot_12.png)
