@@ -46,3 +46,17 @@
 >For example:
 
  ![](/images/Screenshot_5.png)
+
+
+>### Delete an Element in Array
+
+ >If we want to delete some elements of array we use belows methods:
+
+  > + pop();
+  > + shift();
+
+>##### The method pop() delete an element from the end of the array:
+
+ >For example:
+
+  ![](/images/Screenshot_6.png)
