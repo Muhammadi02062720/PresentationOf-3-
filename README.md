@@ -33,3 +33,11 @@
 
   > + push();
   > + unfhift();
+
+
+>##### if we want to add new element to an array we use the method (push()):
+
+ >The method push() add element on the end of the array'
+  > For example:
+
+  ![](/images/Screenshot_4.png)
