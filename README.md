@@ -19,3 +19,9 @@
 (fourth element), the third element will be undefined. For example,
  
  ![](/images/Screenshot_2.png)
+
+
+
+># Array methods
+ 
+![](/images/Screenshot_3.png)
