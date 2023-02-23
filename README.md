@@ -78,4 +78,4 @@
    >Reverse() method, reverse an elements of array from the end into start:
    >For instead:
 
-    ![](/images/Screenshot_8.png)
+  ![](/images/Screenshot_8.png)
